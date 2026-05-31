@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EDIT appVersion="Waveform 13.5.19" projectID="6bfc59/3a58f99" creationTime="1774886363206"
+      lastSignificantChange="19e7cddcd5f" modifiedBy="mado">
+  <TRANSPORT endToEnd="1" position="287.5563718820862" scrubInterval="1.391270381156422"
+             start="243.2178710819765" loopPoint2="183.9855711565447" loopPoint1="182.1105711565447"/>
+  <PITCHSEQUENCE>
+    <PITCH startBeat="0.0" pitch="60"/>
+  </PITCHSEQUENCE>
+  <TEMPOSEQUENCE>
+    <TEMPO startBeat="0.0" bpm="71.0" curve="1.0"/>
+    <TEMPO startBeat="2.0" bpm="80.0" curve="1.0"/>
+    <TEMPO startBeat="28.0" bpm="75.0" curve="1.0"/>
+    <TEMPO startBeat="29.0" bpm="70.0" curve="1.0"/>
+    <TEMPO startBeat="30.0" bpm="65.0" curve="1.0"/>
+    <TEMPO startBeat="32.0" bpm="145.0" curve="1.0"/>
+    <TEMPO startBeat="319.0" bpm="150.0" curve="1.0"/>
+    <TEMPO startBeat="327.0" bpm="155.0" curve="1.0"/>
+    <TEMPO startBeat="335.0" bpm="160.0" curve="1.0"/>
+    <TEMPO startBeat="343.0" bpm="165.0" curve="1.0"/>
+    <TEMPO startBeat="351.0" bpm="170.0" curve="1.0"/>
+    <TEMPO startBeat="359.0" bpm="175.0" curve="1.0"/>
+    <TEMPO startBeat="367.0" bpm="180.0" curve="1.0"/>
+    <TEMPO startBeat="375.0" bpm="185.0" curve="1.0"/>
+    <TEMPO startBeat="383.0" bpm="192.0" curve="1.0"/>
+    <TEMPO startBeat="607.0" bpm="182.0" curve="1.0"/>
+    <TEMPO startBeat="609.0" bpm="172.0" curve="1.0"/>
+    <TEMPO startBeat="611.0" bpm="162.0" curve="1.0"/>
+    <TEMPO startBeat="613.0" bpm="152.0" curve="1.0"/>
+    <TEMPO startBeat="615.0" bpm="142.0" curve="1.0"/>
+    <TEMPO startBeat="617.0" bpm="132.0" curve="1.0"/>
+    <TEMPO startBeat="619.0" bpm="120.0" curve="1.0"/>
+    <TEMPO startBeat="621.0" bpm="110.0" curve="1.0"/>
+    <TEMPO startBeat="625.0" bpm="100.0" curve="1.0"/>
+    <TEMPO startBeat="626.0" bpm="90.0" curve="1.0"/>
+    <TEMPO startBeat="627.0" bpm="145.0" curve="1.0"/>
+    <TIMESIG numerator="2" denominator="4" startBeat="0.0"/>
+    <TIMESIG numerator="4" denominator="4" startBeat="2.0"/>
+    <TIMESIG numerator="2" denominator="4" startBeat="30.0"/>
+    <TIMESIG numerator="3" denominator="4" startBeat="32.0"/>
+    <TIMESIG numerator="4" denominator="4" startBeat="35.0"/>
+  </TEMPOSEQUENCE>
+  <VIDEO/>
+  <CLICKTRACK level="0.6025595664978027" active="0"/>
+  <MASTERVOLUME>
+    <PLUGIN type="volume" volume="0.6703200340270996" id="1001" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+  </MASTERVOLUME>
+  <RACKS/>
+  <MASTERPLUGINS/>
+  <INPUTDEVICES>
+    <INPUTDEVICE deviceID="midiin_170f06" name="Midi Through Port-0"/>
+    <INPUTDEVICE deviceID="all_midi_in" name="All MIDI Ins"/>
+    <INPUTDEVICE deviceID="wavein_57204c54" name="channel 1">
+      <INPUTDEVICEDESTINATION targetID="1006" targetIndex="0"/>
+    </INPUTDEVICE>
+    <INPUTDEVICE deviceID="wavein_57204c55" name="channel 2"/>
+    <INPUTDEVICE deviceID="wavein_57204c56" name="channel 3"/>
+    <INPUTDEVICE deviceID="wavein_57204c57" name="channel 4"/>
+    <INPUTDEVICE deviceID="wavein_57204c58" name="channel 5"/>
+    <INPUTDEVICE deviceID="wavein_57204c59" name="channel 6"/>
+    <INPUTDEVICE deviceID="wavein_57204c5a" name="channel 7"/>
+    <INPUTDEVICE deviceID="wavein_57204c5b" name="channel 8"/>
+    <INPUTDEVICE deviceID="wavein_57204c5c" name="channel 9"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e5c" name="channel 10"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e5d" name="channel 11"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e5e" name="channel 12"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e5f" name="channel 13"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e60" name="channel 14"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e61" name="channel 15"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e62" name="channel 16"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e63" name="channel 17"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e64" name="channel 18"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e65" name="channel 19"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e7b" name="channel 20"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e7c" name="channel 21"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e7d" name="channel 22"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e7e" name="channel 23"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e7f" name="channel 24"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e80" name="channel 25"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e81" name="channel 26"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e82" name="channel 27"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e83" name="channel 28"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e84" name="channel 29"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e9a" name="channel 30"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e9b" name="channel 31"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e9c" name="channel 32"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e9d" name="channel 33"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e9e" name="channel 34"/>
+    <INPUTDEVICE deviceID="wavein_8ce93e9f" name="channel 35"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ea0" name="channel 36"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ea1" name="channel 37"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ea2" name="channel 38"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ea3" name="channel 39"/>
+    <INPUTDEVICE deviceID="wavein_8ce93eb9" name="channel 40"/>
+    <INPUTDEVICE deviceID="wavein_8ce93eba" name="channel 41"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ebb" name="channel 42"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ebc" name="channel 43"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ebd" name="channel 44"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ebe" name="channel 45"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ebf" name="channel 46"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ec0" name="channel 47"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ec1" name="channel 48"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ec2" name="channel 49"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ed8" name="channel 50"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ed9" name="channel 51"/>
+    <INPUTDEVICE deviceID="wavein_8ce93eda" name="channel 52"/>
+    <INPUTDEVICE deviceID="wavein_8ce93edb" name="channel 53"/>
+    <INPUTDEVICE deviceID="wavein_8ce93edc" name="channel 54"/>
+    <INPUTDEVICE deviceID="wavein_8ce93edd" name="channel 55"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ede" name="channel 56"/>
+    <INPUTDEVICE deviceID="wavein_8ce93edf" name="channel 57"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ee0" name="channel 58"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ee1" name="channel 59"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ef7" name="channel 60"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ef8" name="channel 61"/>
+    <INPUTDEVICE deviceID="wavein_8ce93ef9" name="channel 62"/>
+    <INPUTDEVICE deviceID="wavein_8ce93efa" name="channel 63"/>
+    <INPUTDEVICE deviceID="wavein_8ce93efb" name="channel 64"/>
+  </INPUTDEVICES>
+  <TRACKCOMPS/>
+  <VIEWSTATE minimalTransportBar="0" hiddenClips="" lockedClips="" chordTrackVisible="0"
+             arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Files"
+             browserSelection="result/all" viewleft="235.133214346544" viewright="304.6967334043651"
+             tracktop="0.0" arrangementVisible="1" mixerPanelShown="0" sidePanelsShown="0"
+             videoActive="0" pluginAreaWidth="0.8523805737495422" scrollWhenPlaying="1"
+             scrollSuspended="0"/>
+  <EDITMIXGROUPS/>
+  <SCENES/>
+  <AUDIOEDITING/>
+  <ARRANGEVIEW>
+    <MIXERVIEWSTATE overviewVisible="0" smallMetersVisible="0" bigMetersVisible="0"
+                    outputsVisible="0" trackWidth="100.0" pluginsProportion="0.5"
+                    bigMetersProportion="0.5" clipsProportion="0.5" clipsScroll="0.0"
+                    clipsHeight="24" inputsVisible="0" clipsVisible="1" modifiersVisible="1"
+                    pluginsVisible="1" levelsVisible="1"/>
+  </ARRANGEVIEW>
+  <ARRANGERTRACK name="Arranger" id="1027"/>
+  <CHORDTRACK name="Chord" id="1029"/>
+  <MARKERTRACK id="1002" name="Marker" height="18.0"/>
+  <TEMPOTRACK name="Global" id="1028" height="21.0">
+    <MODIFIERS/>
+  </TEMPOTRACK>
+  <MASTERTRACK name="Master" id="1030" currentAutoParamPluginID="1001" currentAutoParamTag="master volume"
+               height="29.0">
+    <MODIFIERS/>
+  </MASTERTRACK>
+  <TRACK id="1003" colour="ffff0000" height="35.16537375388245" mute="0"
+         solo="0" currentAutoParamPluginID="1004" currentAutoParamTag="volume">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <AUDIOCLIP name="undred-instrumental" start="0.0" length="186.4855711565447"
+               offset="0.0" id="1032" source="6bfc59/10fac55" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO numBeats="592.944" denominator="4" numerator="4" oneShot="0"
+                bpm="0" rootNote="-1" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred-instrumental" start="186.4855711565447" length="20.0"
+               offset="186.4855711565447" id="1305" source="6bfc59/10fac55"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffff0000" proxyAllowed="1"
+               resamplingQuality="lagrange" fadeIn="0.0" fadeOut="0.0">
+      <LOOPINFO numBeats="592.944" denominator="4" numerator="4" oneShot="0"
+                bpm="0" rootNote="-1" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred-instrumental" start="206.4855711565447" length="89.98642884345529"
+               offset="206.4855711565447" id="1301" source="6bfc59/10fac55"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffff0000" proxyAllowed="1"
+               resamplingQuality="lagrange">
+      <LOOPINFO numBeats="592.944" denominator="4" numerator="4" oneShot="0"
+                bpm="0" rootNote="-1" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <PLUGIN type="8bandEq" windowLocked="1" id="1212" enabled="0" width="812"
+            presetDirty="1" height="450" freq1lm="20.03971862792969" gain1lm="0.9696969985961914"
+            q1lm="0.7200000286102295" freq2lm="77.39015960693359" gain2lm="2.528735637664795"
+            enable3lm="1" presetName="8-Band Equaliser: Kick" presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/8 Band EQ/8-Band EQ Kick.trkpreset"
+            freq6lm="111.0079193115234" q6lm="0.2899999916553497" q2lm="0.6499999761581421"
+            freq3lm="83.26420593261719" gain3lm="-6.666666984558105" q3lm="1.0"
+            freq4lm="128.5263366699219" gain4lm="-1.899999618530273" q4lm="0.365200012922287"
+            freq5lm="109.1702117919922" gain5lm="-0.9195402264595032" q5lm="0.3199999928474426"
+            gain6lm="6.5" enable4lm="0" enable6lm="0" shape3lm="2" enable5lm="1"
+            editChannel="0" shape5lm="5" freq8lm="135.0762329101562" q8lm="0.6980000138282776"
+            windowX="1883" windowY="160" enable1lm="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1004" enabled="1" volume="0.6408242583274841">
+      <MODIFIERASSIGNMENTS/>
+      <AUTOMATIONCURVE paramID="volume">
+        <POINT t="308.4719985636901" v="0.6408242583274841" c="0.0"/>
+      </AUTOMATIONCURVE>
+    </PLUGIN>
+    <PLUGIN type="level" id="1005" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1006" colour="ffc4ff4c" height="35.16537375388245" currentAutoParamPluginID="1007"
+         currentAutoParamTag="volume" solo="0" expanded="1" mute="0">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <AUTOMATIONTRACK id="1137" colour="ffc4ff4c" currentAutoParamPluginID="1007" currentAutoParamTag="pan"
+                     height="35.16537375388245"/>
+    <AUDIOCLIP name="undred-Piano" start="0.0" length="62.35" offset="0.0" id="1064"
+               source="6bfc59/136ff43" sync="0" elastiqueMode="0" pan="0.0"
+               colour="ffffaa00" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="73.78083333333333" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred2-Piano" start="62.34860996216024" length="13.24137931034483"
+               offset="1.0" id="1116" source="6bfc59/3afad2d" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffaa00ff" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="310.6866666666667" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred3-Piano" start="75.58998927250506" length="24.82758620689653"
+               offset="1.0" id="1121" source="6bfc59/157d617" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="322.6733333333333" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred-voicevox" start="100.4175754794016" length="24.79308333333334"
+               offset="0.0" id="1142" source="6bfc59/6ea4fc" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff5500" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="59.91661805555555" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred4-Piano" start="133.5210237552637" length="31.99157442830798"
+               offset="1.0" id="1152" source="6bfc59/17ea0f3" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="402.3508333333334" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred5-Piano" start="165.5125981835717" length="20.97297297297297"
+               offset="1.0" id="1166" source="6bfc59/3075de0" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="468.1" oneShot="0" denominator="4" numerator="4"
+                bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred6-Piano" start="186.4855711565447" length="40.00442884345534"
+               offset="1.0" id="1180" source="6bfc59/29d8e4b" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="724.768" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred7-Piano" start="226.4855711565447" length="16.73229992543176"
+               offset="1.0" id="1270" source="6bfc59/1482f18" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="592.3974999999999" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred8-Piano" start="243.2178710819765" length="40.79212891802342"
+               offset="1.0" id="1278" source="6bfc59/14a0840" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="280.3883333333333" oneShot="0" denominator="4"
+                numerator="2" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <PLUGIN type="naturalReverb" windowLocked="1" id="1134" enabled="1" preDelay="0.0"
+            presetDirty="1" size="0.2520000636577606" decay="0.1919999718666077"
+            slope="0.1480000466108322" definition="1.0" diffusion="0.6480000019073486"
+            highCut="0.871999979019165" lowDamp="0.0" highDamp="1.0" presetName="Natural Reverb: Sparkly Keys"
+            presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Natural Reverb/Natural Reverb Sparkly Keys.trkpreset"
+            mix="0.5">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="comp" windowLocked="1" id="1077" enabled="1" threshold="-22.0"
+            presetDirty="1" ratio="4.099999904632568" attack="100.0" release="51.0"
+            knee="0.0" presetName="Compressor: Smooth Vocals" presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Compressor/Compressor Smooth Vocals.trkpreset"
+            outputDb="2.560001373291016" windowX="1829" windowY="232" rms="0">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1007" enabled="1" pan="-0.300000011920929"
+            volume="0.7408000230789185" base64:parameters="19.18Fa00VY.rAb67Cbg4F.MyLS9B">
+      <MODIFIERASSIGNMENTS/>
+      <AUTOMATIONCURVE paramID="volume">
+        <POINT t="42.90033410009126" v="0.7788000106811523" c="0.0"/>
+        <POINT t="43.41757547940161" v="0.7408000230789185" c="0.0"/>
+        <POINT t="46.62447203112575" v="0.7408000230789185" c="0.0"/>
+        <POINT t="47.86585134147057" v="0.6703000068664551" c="0.0"/>
+        <POINT t="64.00378237595334" v="0.7408000230789185" c="0.0"/>
+        <POINT t="65.65895478974645" v="0.8607000112533569" c="0.0"/>
+        <POINT t="79.72792030698783" v="0.8607000112533569" c="0.0"/>
+        <POINT t="79.83136858284989" v="0.6703000068664551" c="0.0"/>
+        <POINT t="83.34860996216024" v="0.6703000068664551" c="0.0"/>
+        <POINT t="83.37447203112575" v="0.8607000112533569" c="0.0"/>
+        <POINT t="90.27964444491884" v="0.8607000112533569" c="0.0"/>
+        <POINT t="90.38309272078092" v="0.7408000230789185" c="0.0"/>
+        <POINT t="100.2106789276775" v="0.7408000230789185" c="0.0"/>
+        <POINT t="100.4175754794016" v="0.8607000112533569" c="0.0"/>
+        <POINT t="133.5210237552637" v="0.8607000112533569" c="0.0"/>
+        <POINT t="135.1761961690568" v="0.8187000155448914" c="0.0"/>
+        <POINT t="165.5125981835717" v="0.8187000155448914" c="0.0"/>
+        <POINT t="165.836922507896" v="0.7046999931335449" c="0.0"/>
+        <POINT t="172.4230711565447" v="0.7046999931335449" c="0.0"/>
+        <POINT t="172.5793211565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="181.3293211565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="186.4855711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="186.7980711565447" v="0.8187000155448914" c="0.0"/>
+        <POINT t="205.8605711565447" v="0.8187000155448914" c="0.0"/>
+        <POINT t="206.0168211565447" v="0.8187000155448914" c="0.0"/>
+        <POINT t="213.0480711565447" v="0.8187000155448914" c="0.0"/>
+        <POINT t="213.3605711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="216.4855711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="216.7980711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="227.4230711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="227.7355711565447" v="0.8187000155448914" c="0.0"/>
+        <POINT t="231.7980711565447" v="0.8187000155448914" c="0.0"/>
+        <POINT t="235.5480711565447" v="0.8187000155448914" c="0.0"/>
+        <POINT t="235.7043211565447" v="0.7408000230789185" c="0.0"/>
+      </AUTOMATIONCURVE>
+      <AUTOMATIONCURVE paramID="pan">
+        <POINT t="83.03826513457403" v="-0.300000011920929" c="0.0"/>
+        <POINT t="83.03826513457403" v="0.2000000029802322" c="0.0"/>
+        <POINT t="95.4520582380223" v="0.2000000029802322" c="0.0"/>
+        <POINT t="95.86585134147057" v="-0.300000011920929" c="0.0"/>
+        <POINT t="100.2106789276775" v="-0.300000011920929" c="0.0"/>
+        <POINT t="100.4175754794016" v="0.0" c="0.0"/>
+        <POINT t="125.2451616862982" v="0.0" c="0.0"/>
+        <POINT t="126.9003341000913" v="0.300000011920929" c="0.0"/>
+        <POINT t="148.2004453347965" v="0.300000011920929" c="0.0"/>
+        <POINT t="165.5125981835717" v="0.300000011920929" c="0.0"/>
+        <POINT t="165.836922507896" v="-0.300000011920929" c="0.0"/>
+        <POINT t="181.1730711565447" v="-0.300000011920929" c="0.0"/>
+        <POINT t="181.4855711565447" v="-0.1000000014901161" c="0.0"/>
+        <POINT t="205.2355711565447" v="-0.1000000014901161" c="0.0"/>
+        <POINT t="205.5480711565447" v="-0.300000011920929" c="0.0"/>
+      </AUTOMATIONCURVE>
+    </PLUGIN>
+    <PLUGIN type="level" id="1008" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1009" colour="ffff884c" height="35.16537375388245" currentAutoParamPluginID="1010"
+         currentAutoParamTag="volume" solo="0">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <AUTOMATIONTRACK id="1140" colour="ffff884c" currentAutoParamPluginID="1010" currentAutoParamTag="pan"
+                     height="35.16537375388245"/>
+    <AUDIOCLIP name="undred-Piano_(1)" start="0.0" length="62.19" offset="0.0"
+               id="1076" source="6bfc59/27daa63" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ff00aaff" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="82.91999999999999" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred2-Piano_(1)" start="62.34860996216024" length="18.93103448275862"
+               offset="1.0" id="1114" source="6bfc59/bbd076" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffaa00ff" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="310.6866666666667" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred3-Piano_(1)" start="81.27964444491886" length="19.13793103448273"
+               offset="1.0" id="1123" source="6bfc59/bc22bd" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="322.6733333333333" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred4-Piano_(1)" start="133.5210237552637" length="31.99157442830798"
+               offset="1.0" id="1154" source="6bfc59/15421a7" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="402.3508333333334" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred5-Piano_(1)" start="165.5125981835717" length="20.81672297297297"
+               offset="1.0" id="1168" source="6bfc59/3d0c2f5" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="499.3066666666667" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred6-Piano_(1)" start="186.3293211565447" length="40.16067884345534"
+               offset="1.0" id="1182" source="6bfc59/2660f2c" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="724.768" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred7-Piano_(1)" start="226.4855711565447" length="16.73229992543176"
+               offset="1.0" id="1272" source="6bfc59/baea92" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="784.4160000000001" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred8-Piano_(1)" start="243.2178710819765" length="37.69212891802351"
+               offset="1.0" id="1280" source="6bfc59/266a678" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="345.0933333333333" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <PLUGIN type="naturalReverb" windowLocked="1" id="1133" enabled="1" preDelay="0.0"
+            presetDirty="1" size="0.2520000636577606" decay="0.1919999718666077"
+            slope="0.1480000466108322" definition="1.0" diffusion="0.6480000019073486"
+            highCut="0.871999979019165" lowDamp="0.0" highDamp="1.0" presetName="Natural Reverb: Sparkly Keys"
+            presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Natural Reverb/Natural Reverb Sparkly Keys.trkpreset"
+            mix="0.5">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="comp" windowLocked="1" id="1039" enabled="1" threshold="-22.0"
+            presetDirty="1" ratio="4.099999904632568" attack="100.0" release="51.0"
+            knee="0.0" presetName="Compressor: Smooth Vocals" presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Compressor/Compressor Smooth Vocals.trkpreset"
+            outputDb="2.560001373291016" windowX="1829" windowY="232" rms="0">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1010" enabled="1" volume="0.6065000295639038"
+            pan="0.1000000014901161" base64:parameters="19.18Fa00VY.vTba8Cbg4F.MyLS9.">
+      <MODIFIERASSIGNMENTS/>
+      <AUTOMATIONCURVE paramID="volume">
+        <POINT t="47.86585134147057" v="0.8846153616905212" c="0.0"/>
+        <POINT t="48.69343754836713" v="0.6376000046730042" c="0.0"/>
+        <POINT t="72.27964444491884" v="0.6376000046730042" c="0.0"/>
+        <POINT t="73.93481685871195" v="0.7788000106811523" c="0.0"/>
+        <POINT t="78.27964444491886" v="0.7788000106811523" c="0.0"/>
+        <POINT t="78.48654099664299" v="0.6703000068664551" c="0.0"/>
+        <POINT t="80.55550651388437" v="0.6703000068664551" c="0.0"/>
+        <POINT t="80.96929961733265" v="0.7788000106811523" c="0.0"/>
+        <POINT t="89.19343754836713" v="0.7788000106811523" c="0.0"/>
+        <POINT t="93.38309272078092" v="0.7788000106811523" c="0.0"/>
+        <POINT t="96.69343754836713" v="0.7788000106811523" c="0.0"/>
+        <POINT t="97.1072306518154" v="0.6703000068664551" c="0.0"/>
+        <POINT t="133.5210237552637" v="0.6703000068664551" c="0.0"/>
+        <POINT t="135.1761961690568" v="0.7408000230789185" c="0.0"/>
+        <POINT t="165.5125981835717" v="0.7408000230789185" c="0.0"/>
+        <POINT t="173.3605711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="174.9230711565447" v="0.8607000112533569" c="0.0"/>
+        <POINT t="182.3058836565447" v="0.8607000112533569" c="0.0"/>
+        <POINT t="182.3449461565447" v="0.6703000068664551" c="0.0"/>
+        <POINT t="186.3293211565447" v="0.6703000068664551" c="0.0"/>
+        <POINT t="186.4855711565447" v="0.5769000053405762" c="0.0"/>
+        <POINT t="196.4074461565447" v="0.5769000053405762" c="0.0"/>
+        <POINT t="196.4855711565447" v="0.7046999931335449" c="0.0"/>
+        <POINT t="200.5480711565447" v="0.7046999931335449" c="0.0"/>
+        <POINT t="200.8605711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="229.3761961565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="229.4543211565447" v="0.8187000155448914" c="0.0"/>
+        <POINT t="231.4074461565447" v="0.8187000155448914" c="0.0"/>
+        <POINT t="231.5636961565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="244.3087801728855" v="0.7408000230789185" c="0.0"/>
+        <POINT t="244.3087801728855" v="0.7408000230789185" c="0.0"/>
+        <POINT t="244.9087801728855" v="0.8187000155448914" c="0.0"/>
+        <POINT t="258.4030330464487" v="0.8187000155448914" c="0.0"/>
+        <POINT t="258.4030330464487" v="0.7788000106811523" c="0.0"/>
+        <POINT t="258.4030330464487" v="0.6065000295639038" c="0.0"/>
+      </AUTOMATIONCURVE>
+      <AUTOMATIONCURVE paramID="pan">
+        <POINT t="75.17619616905678" v="0.300000011920929" c="0.0"/>
+        <POINT t="75.17619616905678" v="0.2000000029802322" c="0.0"/>
+        <POINT t="75.58998927250506" v="-0.2000000029802322" c="0.0"/>
+        <POINT t="77.65895478974645" v="-0.2000000029802322" c="0.0"/>
+        <POINT t="77.65895478974645" v="-0.2000000029802322" c="0.0"/>
+        <POINT t="78.07274789319472" v="0.300000011920929" c="0.0"/>
+        <POINT t="135.1761961690568" v="0.300000011920929" c="0.0"/>
+        <POINT t="136.8313685828499" v="0.2000000029802322" c="0.0"/>
+        <POINT t="181.1730711565447" v="0.2000000029802322" c="0.0"/>
+        <POINT t="181.4855711565447" v="-0.300000011920929" c="0.0"/>
+        <POINT t="186.3293211565447" v="-0.300000011920929" c="0.0"/>
+        <POINT t="186.4855711565447" v="-1.0" c="0.0"/>
+        <POINT t="196.3293211565447" v="-1.0" c="0.0"/>
+        <POINT t="196.4855711565447" v="-0.300000011920929" c="0.0"/>
+        <POINT t="205.2355711565447" v="-0.300000011920929" c="0.0"/>
+        <POINT t="205.3332274065447" v="-1.0" c="0.0"/>
+        <POINT t="207.4230711565447" v="-1.0" c="0.0"/>
+        <POINT t="207.7355711565447" v="0.300000011920929" c="0.0"/>
+        <POINT t="244.3087801728855" v="0.300000011920929" c="0.0"/>
+        <POINT t="244.9087801728855" v="0.1000000014901161" c="0.0"/>
+      </AUTOMATIONCURVE>
+    </PLUGIN>
+    <PLUGIN type="level" id="1011" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1012" colour="ff4cc3ff" height="35.16537375388245" currentAutoParamPluginID="1013"
+         currentAutoParamTag="volume" solo="0" mute="0">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <AUTOMATIONTRACK id="1164" colour="ff4cc3ff" currentAutoParamPluginID="1013" currentAutoParamTag="pan"
+                     height="35.16537375388245"/>
+    <AUDIOCLIP name="undred-Piano_(2)" start="0.0" length="62.19" offset="0.0"
+               id="1074" source="6bfc59/144c7bf" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ff00ff00" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="73.5915" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred2-Piano_(2)" start="62.34860996216024" length="18.12931034482759"
+               offset="1.0" id="1112" source="6bfc59/3d44c04" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffaa00ff" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="310.6866666666667" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred3-Piano_(2)" start="80.47792030698783" length="53.04207969301218"
+               offset="1.0" id="1125" source="6bfc59/3762d44" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="322.6733333333333" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred4-Piano_(2)" start="133.5210237552637" length="31.99157442830798"
+               offset="1.0" id="1162" source="6bfc59/3e982f9" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="402.3508333333334" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred5-Piano_(2)" start="165.5125981835717" length="20.97297297297297"
+               offset="1.0" id="1170" source="6bfc59/1956c89" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="514.9100000000001" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred6-Piano_(2)" start="186.4855711565447" length="40.00442884345534"
+               offset="1.0" id="1184" source="6bfc59/2576507" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="724.768" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred7-Piano_(2)" start="226.4855711565447" length="16.73229992543176"
+               offset="1.0" id="1274" source="6bfc59/2304142" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="784.4160000000001" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred8-Piano_(2)" start="243.2178710819765" length="37.69212891802351"
+               offset="1.0" id="1282" source="6bfc59/3f2c0b7" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="828.224" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <PLUGIN type="vst" uniqueId="4c777379" uid="4c777379" filename="/usr/lib/vst/mx_tune.so"
+            name="mx_tune" manufacturer="liuanlin-mx" windowLocked="1" id="1296"
+            enabled="1" windowX="2207" windowY="304" programNum="0" state="372.CMlaKA....fQBMDZ....AvzcykG.ADP.....A...............................................................................................................................................................................TulchUmYN.fC..B...BHA..HfH..f7.HA..HqHvG...f+nv0ixiBWOJOyLyL+zLyL8yLyLyO..............DP.....A...9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C.....lYlY+zLyL2iBWOJO...2CE..vID..vnPA..RDsBHCTybz4xbkEWck41Xk8Uay0SL1nvbz4xbkU1Z2klaj81ce01b8PiByQmKuYWYxwVXv8Uay0CMJ.xC"
+            base64:layout="99.LETVOUEU..P.BjjSPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..OUEUPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="naturalReverb" windowLocked="1" id="1132" enabled="1" preDelay="0.0"
+            presetDirty="1" size="0.2520000636577606" decay="0.1919999718666077"
+            slope="0.1480000466108322" definition="1.0" diffusion="0.6480000019073486"
+            highCut="0.871999979019165" lowDamp="0.0" highDamp="1.0" presetName="Natural Reverb: Sparkly Keys"
+            presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Natural Reverb/Natural Reverb Sparkly Keys.trkpreset"
+            mix="0.5">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="comp" windowLocked="1" id="1079" enabled="1" threshold="-22.0"
+            presetDirty="1" ratio="4.099999904632568" attack="100.0" release="51.0"
+            knee="0.0" presetName="Compressor: Smooth Vocals" presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Compressor/Compressor Smooth Vocals.trkpreset"
+            outputDb="2.560001373291016" windowX="1829" windowY="232" rms="0">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1013" enabled="1" pan="-0.1000000014901161"
+            volume="0.7408000230789185" base64:parameters="19.18Fa00VY.Ljo87Cbg4F.MyLS9B">
+      <MODIFIERASSIGNMENTS/>
+      <AUTOMATIONCURVE paramID="volume">
+        <POINT t="39.58998927250506" v="0.7408000230789185" c="0.0"/>
+        <POINT t="40.41757547940161" v="0.7046999931335449" c="0.0"/>
+        <POINT t="43.72792030698782" v="0.7046999931335449" c="0.0"/>
+        <POINT t="44.55550651388437" v="0.7788000106811523" c="0.0"/>
+        <POINT t="48.48654099664299" v="0.7788000106811523" c="0.0"/>
+        <POINT t="48.69343754836713" v="0.7408000230789185" c="0.0"/>
+        <POINT t="53.03826513457403" v="0.7408000230789185" c="0.0"/>
+        <POINT t="54.07274789319472" v="0.7788000106811523" c="0.0"/>
+        <POINT t="80.47792030698783" v="0.7788000106811523" c="0.0"/>
+        <POINT t="80.47792030698783" v="0.5769000053405762" c="0.0"/>
+        <POINT t="88.62447203112575" v="0.5769000053405762" c="0.0"/>
+        <POINT t="88.83136858284989" v="0.6703000068664551" c="0.0"/>
+        <POINT t="133.5210237552637" v="0.6703000068664551" c="0.0"/>
+        <POINT t="135.1761961690568" v="0.7408000230789185" c="0.0"/>
+        <POINT t="160.7100241809977" v="0.7408000230789185" c="0.0"/>
+        <POINT t="165.5125981835717" v="0.7408000230789185" c="0.0"/>
+        <POINT t="171.7199461565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="182.3449461565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="182.3840086565447" v="0.6703000068664551" c="0.0"/>
+        <POINT t="186.4855711565447" v="0.6703000068664551" c="0.0"/>
+        <POINT t="186.4855711565447" v="0.6703000068664551" c="0.0"/>
+        <POINT t="186.4855711565447" v="0.6703000068664551" c="0.0"/>
+        <POINT t="186.4855711565447" v="0.6703000068664551" c="0.0"/>
+        <POINT t="186.6418211565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="208.9855711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="208.9855711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="209.2980711565447" v="0.548799991607666" c="0.0"/>
+        <POINT t="211.4074461565447" v="0.548799991607666" c="0.0"/>
+        <POINT t="211.4855711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="230.8605711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="231.1730711565447" v="0.8187000155448914" c="0.0"/>
+        <POINT t="232.4230711565447" v="0.8607000112533569" c="0.0"/>
+        <POINT t="233.9855711565447" v="0.8607000112533569" c="0.0"/>
+        <POINT t="234.2980711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="235.3918211565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="235.5480711565447" v="0.6703000068664551" c="0.0"/>
+        <POINT t="243.2178710819765" v="0.6703000068664551" c="0.0"/>
+        <POINT t="243.3542347183401" v="0.6376000046730042" c="0.0"/>
+        <POINT t="245.7823433912763" v="0.6376000046730042" c="0.0"/>
+        <POINT t="245.7823433912763" v="0.6376000046730042" c="0.0"/>
+        <POINT t="245.9892399430005" v="0.7046999931335449" c="0.0"/>
+        <POINT t="248.265102011966" v="0.7046999931335449" c="0.0"/>
+        <POINT t="248.3685502878281" v="0.6065000295639038" c="0.0"/>
+        <POINT t="258.2737227016212" v="0.548799991607666" c="0.0"/>
+        <POINT t="258.3254468395522" v="0.7408000230789185" c="0.0"/>
+      </AUTOMATIONCURVE>
+      <AUTOMATIONCURVE paramID="pan">
+        <POINT t="181.1730711565447" v="-0.2000000029802322" c="0.0"/>
+        <POINT t="181.4855711565447" v="0.2000000029802322" c="0.0"/>
+        <POINT t="205.2355711565447" v="0.2000000029802322" c="0.0"/>
+        <POINT t="205.5480711565447" v="-0.2000000029802322" c="0.0"/>
+        <POINT t="243.2178710819765" v="-0.2000000029802322" c="0.0"/>
+        <POINT t="243.3542347183401" v="-1.0" c="0.0"/>
+        <POINT t="245.7823433912763" v="-1.0" c="0.0"/>
+        <POINT t="245.8857916671384" v="-0.2000000029802322" c="0.0"/>
+        <POINT t="258.2478606326557" v="-0.2000000029802322" c="0.0"/>
+        <POINT t="258.2995847705867" v="-0.1000000014901161" c="0.0"/>
+      </AUTOMATIONCURVE>
+    </PLUGIN>
+    <PLUGIN type="level" id="1014" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1015" colour="ff4cff4c" height="35.16537375388245" currentAutoParamPluginID="1016"
+         currentAutoParamTag="volume" solo="0" mute="0">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <AUTOMATIONTRACK id="1138" colour="ff4cff4c" currentAutoParamPluginID="1016" currentAutoParamTag="pan"
+                     height="35.16537375388245"/>
+    <AUDIOCLIP name="undred-Piano_(3)" start="0.0" length="62.35" offset="0.0"
+               id="1082" source="6bfc59/18feb51" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ff00ffaa" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="73.78083333333333" oneShot="0" denominator="4"
+                numerator="2" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred2-Piano_(3)" start="62.34860996216024" length="17.37931034482759"
+               offset="1.0" id="1110" source="6bfc59/12d842b" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffaa00ff" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="310.6866666666667" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred3-Piano_(3)" start="79.72792030698783" length="53.79207969301218"
+               offset="1.0" id="1127" source="6bfc59/89b1f" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="322.6733333333333" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred4-Piano_(3)" start="133.5210237552637" length="31.99157442830798"
+               offset="1.0" id="1160" source="6bfc59/1596724" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="402.3508333333334" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred5-Piano_(3)" start="165.5125981835717" length="21.12922297297297"
+               offset="1.0" id="1174" source="6bfc59/1a3695" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="514.9100000000001" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred6-Piano_(3)" start="186.6418211565447" length="39.84817884345534"
+               offset="1.0" id="1186" source="6bfc59/38c1989" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="724.768" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred7-Piano_(3)" start="226.4855711565447" length="16.73229992543176"
+               offset="1.0" id="1276" source="6bfc59/f41bec" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="784.4160000000001" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred8-Piano_(3)" start="243.2178710819765" length="37.69212891802351"
+               offset="1.0" id="1284" source="6bfc59/388d575" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="828.224" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <PLUGIN type="vst" uniqueId="4c777379" uid="4c777379" filename="/usr/lib/vst/mx_tune.so"
+            name="mx_tune" manufacturer="liuanlin-mx" windowLocked="1" id="1298"
+            enabled="1" programNum="0" state="372.CMlaKA....fQBMDZ....AvzcykG.ADP.....A...............................................................................................................................................................................TulchUmYN.fC..B...BHA..HfH..f7.HA..HqHvG...f+nv0ixiBWOJOyLyL+zLyL8yLyLyO..............DP.....A...9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C.....lYlY+zLyL2iBWOJO...2CE..vID..vnPA..RDsBHCTybz4xbkEWck41Xk8Uay0SL1nvbz4xbkU1Z2klaj81ce01b8PiByQmKuYWYxwVXv8Uay0CMJ.xC"
+            base64:layout="99.LETVOUEU..P.BjjSPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..OUEUPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="naturalReverb" windowLocked="1" id="1100" enabled="1" preDelay="0.0"
+            presetDirty="1" size="0.2520000636577606" decay="0.1919999718666077"
+            slope="0.1480000466108322" definition="1.0" diffusion="0.6480000019073486"
+            highCut="0.871999979019165" lowDamp="0.0" highDamp="1.0" presetName="Natural Reverb: Sparkly Keys"
+            presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Natural Reverb/Natural Reverb Sparkly Keys.trkpreset"
+            mix="0.5">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="comp" windowLocked="1" id="1099" enabled="1" threshold="-22.0"
+            presetDirty="1" ratio="4.099999904632568" attack="100.0" release="51.0"
+            knee="0.0" presetName="Compressor: Smooth Vocals" presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Compressor/Compressor Smooth Vocals.trkpreset"
+            outputDb="2.560001373291016" windowX="1829" windowY="232" rms="0">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1016" enabled="1" pan="0.2000000029802322"
+            volume="0.7046999931335449" base64:parameters="11.18Fa00VY.HQo87C">
+      <MODIFIERASSIGNMENTS/>
+      <AUTOMATIONCURVE paramID="volume">
+        <POINT t="41.24516168629816" v="0.740818202495575" c="0.0"/>
+        <POINT t="42.07274789319472" v="0.8187000155448914" c="0.0"/>
+        <POINT t="47.86585134147057" v="0.8187000155448914" c="0.0"/>
+        <POINT t="48.69343754836713" v="0.6376000046730042" c="0.0"/>
+        <POINT t="79.72792030698783" v="0.6376000046730042" c="0.0"/>
+        <POINT t="79.93481685871195" v="0.8187000155448914" c="0.0"/>
+        <POINT t="84.27964444491886" v="0.8187000155448914" c="0.0"/>
+        <POINT t="84.48654099664299" v="0.548799991607666" c="0.0"/>
+        <POINT t="89.03826513457403" v="0.548799991607666" c="0.0"/>
+        <POINT t="89.1417134104361" v="0.7046999931335449" c="0.0"/>
+        <POINT t="96.69343754836713" v="0.7046999931335449" c="0.0"/>
+        <POINT t="97.1072306518154" v="0.6703000068664551" c="0.0"/>
+        <POINT t="133.5210237552637" v="0.6703000068664551" c="0.0"/>
+        <POINT t="135.1761961690568" v="0.7408000230789185" c="0.0"/>
+        <POINT t="161.8909765619501" v="0.7408000230789185" c="0.0"/>
+        <POINT t="162.0576432286168" v="0.7046999931335449" c="0.0"/>
+        <POINT t="165.5125981835717" v="0.7046999931335449" c="0.0"/>
+        <POINT t="185.2355711565447" v="0.7046999931335449" c="0.0"/>
+        <POINT t="185.3527586565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="195.8605711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="196.1730711565447" v="0.548799991607666" c="0.0"/>
+        <POINT t="205.5480711565447" v="0.548799991607666" c="0.0"/>
+        <POINT t="205.8605711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="244.6087801728855" v="0.7408000230789185" c="0.0"/>
+        <POINT t="244.6087801728855" v="0.7408000230789185" c="0.0"/>
+        <POINT t="244.9087801728855" v="0.7046999931335449" c="0.0"/>
+        <POINT t="258.1961364947246" v="0.7046999931335449" c="0.0"/>
+        <POINT t="258.4030330464487" v="0.7046999931335449" c="0.0"/>
+        <POINT t="264.1444123567936" v="0.7046999931335449" c="0.0"/>
+        <POINT t="264.1961364947246" v="0.7408000230789185" c="0.0"/>
+        <POINT t="264.868550287828" v="0.7408000230789185" c="0.0"/>
+        <POINT t="264.9202744257591" v="0.7046999931335449" c="0.0"/>
+      </AUTOMATIONCURVE>
+      <AUTOMATIONCURVE paramID="pan">
+        <POINT t="83.03826513457403" v="0.2000000029802322" c="0.0"/>
+        <POINT t="83.4520582380223" v="-0.300000011920929" c="0.0"/>
+        <POINT t="96.69343754836713" v="-0.300000011920929" c="0.0"/>
+        <POINT t="96.69343754836713" v="-0.1000000014901161" c="0.0"/>
+        <POINT t="105.3830927207809" v="-0.1000000014901161" c="0.0"/>
+        <POINT t="107.038265134574" v="0.2000000029802322" c="0.0"/>
+        <POINT t="133.5210237552637" v="0.2000000029802322" c="0.0"/>
+        <POINT t="135.1761961690568" v="-0.1000000014901161" c="0.0"/>
+        <POINT t="155.6579233406616" v="-0.1000000014901161" c="0.0"/>
+        <POINT t="157.0696880465439" v="0.1000000014901161" c="0.0"/>
+        <POINT t="165.5125981835717" v="0.1000000014901161" c="0.0"/>
+        <POINT t="165.836922507896" v="0.300000011920929" c="0.0"/>
+        <POINT t="182.1886961565447" v="0.300000011920929" c="0.0"/>
+        <POINT t="185.2355711565447" v="0.300000011920929" c="0.0"/>
+        <POINT t="185.3136961565447" v="1.0" c="0.0"/>
+        <POINT t="187.5793211565447" v="1.0" c="0.0"/>
+        <POINT t="187.7355711565447" v="0.300000011920929" c="0.0"/>
+        <POINT t="196.3293211565447" v="0.300000011920929" c="0.0"/>
+        <POINT t="196.4855711565447" v="1.0" c="0.0"/>
+        <POINT t="205.3918211565447" v="1.0" c="0.0"/>
+        <POINT t="205.5480711565447" v="0.2000000029802322" c="0.0"/>
+      </AUTOMATIONCURVE>
+    </PLUGIN>
+    <PLUGIN type="level" id="1017" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1018" colour="ffc34cff" height="35.16537375388245" currentAutoParamPluginID="1019"
+         currentAutoParamTag="volume" solo="0" mute="0">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <AUTOMATIONTRACK id="1139" colour="ffc34cff" currentAutoParamPluginID="1019" currentAutoParamTag="pan"
+                     height="35.16537375388245"/>
+    <AUDIOCLIP name="undred-Piano_(4)" start="0.0" length="62.35" offset="0.0"
+               id="1084" source="6bfc59/2d8990f" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ff00aaff" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="73.78083333333333" oneShot="0" denominator="4"
+                numerator="2" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred2-Piano_(4)" start="62.34860996216024" length="18.20689655172413"
+               offset="1.0" id="1108" source="6bfc59/1b8c1bf" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffaa00ff" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="310.6866666666667" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred3-Piano_(4)" start="80.55550651388437" length="52.96449348611561"
+               offset="1.0" id="1129" source="6bfc59/d729dc" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="322.6733333333333" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred4-Piano_(4)" start="133.5210237552637" length="31.78887172560528"
+               offset="1.0" id="1156" source="6bfc59/20d39f3" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="402.3508333333334" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred5-Piano_(4)" start="165.309895480869" length="21.17567567567568"
+               offset="1.0" id="1176" source="6bfc59/75fdcb" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="452.4966666666667" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred6-Piano_(4)" start="186.4855711565447" length="38.74999999999997"
+               offset="1.0" id="1188" source="6bfc59/95031b" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="245.3641666666666" oneShot="0" denominator="4"
+                numerator="2" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred7-Piano_(4)" start="225.2355711565447" length="17.98229992543176"
+               offset="1.0" id="1268" source="6bfc59/1c9d26e" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="326.84" oneShot="0" denominator="4" numerator="4"
+                bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred8-Piano_(4)" start="243.2178710819765" length="37.69212891802351"
+               offset="1.0" id="1286" source="6bfc59/fdfbad" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="306.2703333333333" oneShot="0" denominator="4"
+                numerator="2" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <PLUGIN type="naturalReverb" windowLocked="1" id="1135" enabled="1" preDelay="0.0"
+            presetDirty="1" size="0.2520000636577606" decay="0.1919999718666077"
+            slope="0.1480000466108322" definition="1.0" diffusion="0.6480000019073486"
+            highCut="0.871999979019165" lowDamp="0.0" highDamp="1.0" presetName="Natural Reverb: Sparkly Keys"
+            presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Natural Reverb/Natural Reverb Sparkly Keys.trkpreset"
+            mix="0.5">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="comp" windowLocked="1" id="1101" enabled="1" threshold="-22.0"
+            presetDirty="1" ratio="4.099999904632568" attack="100.0" release="51.0"
+            knee="0.0" presetName="Compressor: Smooth Vocals" presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Compressor/Compressor Smooth Vocals.trkpreset"
+            outputDb="2.560001373291016" windowX="1829" windowY="232" rms="0">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1019" enabled="1" pan="-0.2000000029802322"
+            volume="0.6703000068664551" base64:parameters="19.18Fa00VY.Ljo87Cbg4F.MyLy8B">
+      <MODIFIERASSIGNMENTS/>
+      <AUTOMATIONCURVE paramID="volume">
+        <POINT t="47.86585134147057" v="0.8607000112533569" c="0.0"/>
+        <POINT t="48.69343754836713" v="0.6376000046730042" c="0.0"/>
+        <POINT t="70.62447203112575" v="0.6376000046730042" c="0.0"/>
+        <POINT t="72.27964444491886" v="0.7788000106811523" c="0.0"/>
+        <POINT t="81.58998927250506" v="0.7423200011253357" c="0.0"/>
+        <POINT t="81.97792030698783" v="0.6703000068664551" c="0.0"/>
+        <POINT t="86.94343754836713" v="0.6703000068664551" c="0.0"/>
+        <POINT t="86.94343754836713" v="0.7788000106811523" c="0.0"/>
+        <POINT t="95.86585134147057" v="0.7788000106811523" c="0.0"/>
+        <POINT t="95.96929961733264" v="0.7046999931335449" c="0.0"/>
+        <POINT t="133.5210237552637" v="0.7046999931335449" c="0.0"/>
+        <POINT t="135.1761961690568" v="0.7408000230789185" c="0.0"/>
+        <POINT t="165.1882738592474" v="0.7408000230789185" c="0.0"/>
+        <POINT t="174.6105711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="174.7668211565447" v="0.6703000068664551" c="0.0"/>
+        <POINT t="178.6730711565447" v="0.6703000068664551" c="0.0"/>
+        <POINT t="178.8293211565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="182.2668211565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="182.3449461565447" v="0.6703000068664551" c="0.0"/>
+        <POINT t="186.3293211565447" v="0.6703000068664551" c="0.0"/>
+        <POINT t="186.4855711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="233.9855711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="234.0636961565447" v="0.6873000264167786" c="0.0"/>
+        <POINT t="243.2178710819765" v="0.6441555023193359" c="0.0"/>
+        <POINT t="244.6087801728855" v="0.6376000046730042" c="0.0"/>
+        <POINT t="257.9892399430005" v="0.6376000046730042" c="0.0"/>
+        <POINT t="258.4030330464487" v="0.6703000068664551" c="0.0"/>
+      </AUTOMATIONCURVE>
+      <AUTOMATIONCURVE paramID="pan">
+        <POINT t="95.4520582380223" v="-0.1000000014901161" c="0.0"/>
+        <POINT t="95.86585134147057" v="0.2000000029802322" c="0.0"/>
+        <POINT t="105.3830927207809" v="0.2000000029802322" c="0.0"/>
+        <POINT t="107.038265134574" v="-0.1000000014901161" c="0.0"/>
+        <POINT t="133.5210237552637" v="-0.1000000014901161" c="0.0"/>
+        <POINT t="135.1761961690568" v="0.1000000014901161" c="0.0"/>
+        <POINT t="155.6579233406616" v="0.1000000014901161" c="0.0"/>
+        <POINT t="157.0696880465439" v="-0.1000000014901161" c="0.0"/>
+        <POINT t="165.1882738592474" v="-0.1000000014901161" c="0.0"/>
+        <POINT t="165.309895480869" v="-1.0" c="0.0"/>
+        <POINT t="167.1886961565447" v="-0.8998198509216309" c="0.0"/>
+        <POINT t="167.2668211565447" v="-0.1000000014901161" c="0.0"/>
+        <POINT t="182.1886961565447" v="-0.1000000014901161" c="0.0"/>
+        <POINT t="182.2668211565447" v="0.1000000014901161" c="0.0"/>
+        <POINT t="205.2355711565447" v="0.1000000014901161" c="0.0"/>
+        <POINT t="205.5480711565447" v="-0.1000000014901161" c="0.0"/>
+        <POINT t="258.2478606326557" v="-0.1000000014901161" c="0.0"/>
+        <POINT t="258.3254468395522" v="-0.2000000029802322" c="0.0"/>
+      </AUTOMATIONCURVE>
+    </PLUGIN>
+    <PLUGIN type="level" id="1020" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1021" colour="ff4c88ff" height="35.16537375388245" currentAutoParamPluginID="1022"
+         currentAutoParamTag="volume" solo="0" mute="0">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <AUTOMATIONTRACK id="1163" colour="ff4c88ff" currentAutoParamPluginID="1022" currentAutoParamTag="pan"
+                     height="35.16537375388245"/>
+    <AUDIOCLIP name="undred-Piano_(5)" start="0.0" length="62.35" offset="0.0"
+               id="1086" source="6bfc59/369f846" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffaa00ff" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="83.13333333333333" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred2-Piano_(5)" start="62.34860996216024" length="18.20689655172413"
+               offset="1.0" id="1106" source="6bfc59/20ae526" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffaa00ff" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="310.6866666666667" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred3-Piano_(5)" start="80.55550651388437" length="52.96449348611561"
+               offset="1.0" id="1131" source="6bfc59/250da8d" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="322.6733333333333" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred4-Piano_(5)" start="133.5210237552637" length="31.99157442830798"
+               offset="1.0" id="1158" source="6bfc59/3892cb4" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="221.9866666666667" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred5-Piano_(5)" start="165.5125981835717" length="20.03547297297297"
+               offset="1.0" id="1178" source="6bfc59/35f5199" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="546.1166666666667" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred6-Piano_(5)" start="185.5480711565447" length="38.43749999999997"
+               offset="1.0" id="1190" source="6bfc59/3bb0f16" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="724.768" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred7-Piano_(5)" start="223.9855711565447" length="19.23229992543176"
+               offset="1.0" id="1266" source="6bfc59/17e95db" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="326.84" oneShot="0" denominator="4" numerator="4"
+                bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="undred8-Piano_(5)" start="245.5754468395522" length="35.33455316044783"
+               offset="1.0" id="1288" source="6bfc59/2046bea" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="345.0933333333333" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <PLUGIN type="naturalReverb" windowLocked="1" id="1136" enabled="1" preDelay="0.0"
+            presetDirty="1" size="0.2520000636577606" decay="0.1919999718666077"
+            slope="0.1480000466108322" definition="1.0" diffusion="0.6480000019073486"
+            highCut="0.871999979019165" lowDamp="0.0" highDamp="1.0" presetName="Natural Reverb: Sparkly Keys"
+            presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Natural Reverb/Natural Reverb Sparkly Keys.trkpreset"
+            mix="0.5">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="comp" windowLocked="1" id="1103" enabled="1" threshold="-22.0"
+            presetDirty="1" ratio="4.099999904632568" attack="100.0" release="51.0"
+            knee="0.0" presetName="Compressor: Smooth Vocals" presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Compressor/Compressor Smooth Vocals.trkpreset"
+            outputDb="2.560001373291016" windowX="1829" windowY="232" rms="0">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1022" enabled="1" pan="0.800000011920929" volume="0.4966000020503998"
+            base64:parameters="19.18Fa00VY.Ljo87Cbg4F.MyLy8.">
+      <MODIFIERASSIGNMENTS/>
+      <AUTOMATIONCURVE paramID="volume">
+        <POINT t="46.83136858284989" v="0.8187000155448914" c="0.0"/>
+        <POINT t="62.34860996216024" v="0.8187000155448914" c="0.0"/>
+        <POINT t="64.00378237595334" v="0.5769000053405762" c="0.0"/>
+        <POINT t="75.17619616905678" v="0.5769000053405762" c="0.0"/>
+        <POINT t="75.58998927250506" v="0.8607000112533569" c="0.0"/>
+        <POINT t="77.24516168629816" v="0.8607000112533569" c="0.0"/>
+        <POINT t="77.65895478974645" v="0.7408000230789185" c="0.0"/>
+        <POINT t="81.84860996216024" v="0.7408000230789185" c="0.0"/>
+        <POINT t="81.97792030698783" v="0.7788000106811523" c="0.0"/>
+        <POINT t="85.72792030698783" v="0.7788000106811523" c="0.0"/>
+        <POINT t="86.34860996216022" v="0.6376000046730042" c="0.0"/>
+        <POINT t="92.46498927250505" v="0.6376000046730042" c="0.0"/>
+        <POINT t="92.50378237595334" v="0.8187000155448914" c="0.0"/>
+        <POINT t="95.86585134147057" v="0.8187000155448914" c="0.0"/>
+        <POINT t="95.96929961733264" v="0.7046999931335449" c="0.0"/>
+        <POINT t="133.5210237552637" v="0.7046999931335449" c="0.0"/>
+        <POINT t="135.1761961690568" v="0.7408000230789185" c="0.0"/>
+        <POINT t="162.0576432286168" v="0.7408000230789185" c="0.0"/>
+        <POINT t="162.2243098952834" v="0.7046999931335449" c="0.0"/>
+        <POINT t="165.5125981835717" v="0.7046999931335449" c="0.0"/>
+        <POINT t="181.4855711565447" v="0.7046999931335449" c="0.0"/>
+        <POINT t="181.4855711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="185.5480711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="205.2355711565447" v="0.6703000068664551" c="0.0"/>
+        <POINT t="205.5480711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="211.1730711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="211.4855711565447" v="0.7046999931335449" c="0.0"/>
+        <POINT t="213.6730711565447" v="0.7046999931335449" c="0.0"/>
+        <POINT t="213.9855711565447" v="0.6065000295639038" c="0.0"/>
+        <POINT t="217.4230711565447" v="0.6065000295639038" c="0.0"/>
+        <POINT t="217.7355711565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="235.4699461565447" v="0.7408000230789185" c="0.0"/>
+        <POINT t="235.4699461565447" v="0.6703000068664551" c="0.0"/>
+        <POINT t="241.013325627431" v="0.6703000068664551" c="0.0"/>
+        <POINT t="241.1269619910674" v="0.7408000230789185" c="0.0"/>
+        <POINT t="243.2178710819765" v="0.7408000230789185" c="0.0"/>
+        <POINT t="243.3542347183401" v="0.4966000020503998" c="0.0"/>
+      </AUTOMATIONCURVE>
+      <AUTOMATIONCURVE paramID="pan">
+        <POINT t="133.5210237552637" v="0.1000000014901161" c="0.0"/>
+        <POINT t="135.1761961690568" v="-0.300000011920929" c="0.0"/>
+        <POINT t="165.5125981835717" v="-0.300000011920929" c="0.0"/>
+        <POINT t="165.836922507896" v="0.1000000014901161" c="0.0"/>
+        <POINT t="181.1730711565447" v="0.1000000014901161" c="0.0"/>
+        <POINT t="181.4855711565447" v="-0.2000000029802322" c="0.0"/>
+        <POINT t="205.2355711565447" v="-0.2000000029802322" c="0.0"/>
+        <POINT t="205.5480711565447" v="0.1000000014901161" c="0.0"/>
+        <POINT t="215.2355711565447" v="0.1000000014901161" c="0.0"/>
+        <POINT t="215.2355711565447" v="1.0" c="0.0"/>
+        <POINT t="217.4230711565447" v="1.0" c="0.0"/>
+        <POINT t="217.4230711565447" v="0.1000000014901161" c="0.0"/>
+        <POINT t="243.2178710819765" v="0.1000000014901161" c="0.0"/>
+        <POINT t="243.3542347183401" v="0.800000011920929" c="0.0"/>
+      </AUTOMATIONCURVE>
+    </PLUGIN>
+    <PLUGIN type="level" id="1023" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1117" colour="ffff0000" height="35.16537375388245" solo="0">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <AUDIOCLIP name="002_&#20013;&#37096;&#12388;&#12427;&#12366;&#65288;&#32118;&#26395;&#12392;&#25943;&#21271;&#65289;_&#12415;&#12425;&#12398;&#12540;&#12540;&#12540;&#12540;&#65281;&#65281;&#8230;"
+               start="114.7968858242292" length="1.536000000000001" offset="0.0"
+               id="1144" source="6bfc59/535c40" sync="0" elastiqueMode="0" pan="0.0"
+               colour="ffff5500" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="3.712" oneShot="0" denominator="4" numerator="4"
+                bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="003_&#20013;&#37096;&#12388;&#12427;&#12366;&#65288;&#32118;&#26395;&#12392;&#25943;&#21271;&#65289;_&#12435;&#12435;&#12394;&#12540;&#12431;&#12540;&#12540;&#12540;&#12369;&#8230;"
+               start="124.7279203069878" length="2.432000000000002" offset="0.0"
+               id="1146" source="6bfc59/2152b7" sync="0" elastiqueMode="0" pan="0.0"
+               colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="5.877333333333333" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="004_&#20013;&#37096;&#12388;&#12427;&#12366;&#65288;&#32118;&#26395;&#12392;&#25943;&#21271;&#65289;_&#12459;&#12473;&#12357;"
+               start="127.1072306518154" length="1.407999999999987" offset="0.0"
+               id="1148" source="6bfc59/280a380" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="3.402666666666666" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <PLUGIN type="naturalReverb" windowLocked="1" id="1150" enabled="1" preDelay="0.0"
+            presetDirty="1" size="0.14000004529953" decay="0.1679999828338623"
+            slope="0.1480000466108322" definition="1.0" diffusion="0.6480000019073486"
+            highCut="0.871999979019165" lowDamp="0.0" highDamp="1.0" presetName="Natural Reverb: Sparkly Keys"
+            presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Natural Reverb/Natural Reverb Sparkly Keys.trkpreset"
+            mix="0.5">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="comp" windowLocked="1" id="1149" enabled="1" threshold="-22.0"
+            presetDirty="1" ratio="5.725365161895752" attack="100.0" release="51.0"
+            knee="0.0" presetName="Compressor: Smooth Vocals" presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Compressor/Compressor Smooth Vocals.trkpreset"
+            outputDb="8.0" windowX="1829" windowY="232" rms="0">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1118" enabled="1" volume="0.7666802406311035">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1119" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1291" colour="ff4cff88" height="45.27491914302051" solo="0">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <AUDIOCLIP name="undred8-ura" start="257.1616537361039" length="21.51724137931035"
+               offset="0.0" id="1290" source="6bfc59/2cfe68" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffff0000" proxyAllowed="1" resamplingQuality="lagrange">
+      <LOOPINFO rootNote="-1" numBeats="123.9991666666667" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <AUTOMATIONCURVES/>
+    </AUDIOCLIP>
+    <PLUGIN type="naturalReverb" windowLocked="1" id="1294" enabled="1" preDelay="0.0"
+            presetDirty="1" size="0.2520000636577606" decay="0.1919999718666077"
+            slope="0.1480000466108322" definition="1.0" diffusion="0.6480000019073486"
+            highCut="0.871999979019165" lowDamp="0.0" highDamp="1.0" presetName="Natural Reverb: Sparkly Keys"
+            presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Natural Reverb/Natural Reverb Sparkly Keys.trkpreset"
+            mix="0.5">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="comp" windowLocked="1" id="1295" enabled="1" threshold="-22.0"
+            presetDirty="1" ratio="4.099999904632568" attack="100.0" release="51.0"
+            knee="0.0" presetName="Compressor: Smooth Vocals" presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/Compressor/Compressor Smooth Vocals.trkpreset"
+            outputDb="2.560001373291016" windowX="1829" windowY="232" rms="0">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1292" enabled="1" pan="-0.800000011920929"
+            volume="0.4924324154853821">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1293" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1302" colour="ffff0000" height="35.16537375388245">
+    <MODIFIERS/>
+    <CLIPSLOTS/>
+    <PLUGIN type="8bandEq" windowLocked="1" id="1306" enabled="1" width="812"
+            presetDirty="1" height="450" freq1lm="17.15621566772461" gain1lm="0.3636363744735718"
+            q1lm="0.7200000286102295" freq2lm="77.39015960693359" gain2lm="2.528735637664795"
+            enable3lm="1" presetName="8-Band Equaliser: Kick" presetPath="/home/mado/.config/Tracktion/Waveform/Factory Presets/8 Band EQ/8-Band EQ Kick.trkpreset"
+            freq6lm="111.0079193115234" q6lm="0.2899999916553497" q2lm="0.6499999761581421"
+            freq3lm="83.26420593261719" gain3lm="-6.666666984558105" q3lm="1.0"
+            freq4lm="128.5263366699219" gain4lm="-1.899999618530273" q4lm="0.365200012922287"
+            freq5lm="109.1702117919922" gain5lm="-0.9195402264595032" q5lm="0.3199999928474426"
+            gain6lm="6.5" enable4lm="0" enable6lm="0" shape3lm="2" enable5lm="1"
+            editChannel="0" shape5lm="5" freq8lm="135.0762329101562" q8lm="0.6980000138282776"
+            windowX="1884" windowY="158" enable1lm="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1303" enabled="1" volume="0.740818202495575">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1304" enabled="1">
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+</EDIT>
